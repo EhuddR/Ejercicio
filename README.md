@@ -4,3 +4,7 @@ Estes es un ejercicio que hemos hecho para crear un repositorio utilzando **Visu
 
 *Autor:* Ehudd Romero  
 *Fecha:* 7 de agosto de 2024
+
+Las ciudadesmás lindas del Ecuador son:
+
+- [Guayaquil](Guayaquil.md)
